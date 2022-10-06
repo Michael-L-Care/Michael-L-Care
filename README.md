@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-L-Care
+- 👋 Hi, I’m @Michael-L-Care aka Michael Lockwood
 - I work as a Sr Product Designer for Care.com
 - I'm in charge of Platform Design and the design system
 - That includes Hummingbird (the master/web library) Hoopla (app library) and a few others
